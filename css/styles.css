@@ -6,7 +6,7 @@
 
 h1 {
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	color: #000000;
+	color: rgb(255, 247, 0);
 	text-align: center;
 }
 
@@ -46,29 +46,31 @@ section {
 #computer {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	width: 40%;
+	margin-left: 60%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+  background-color:  #6495ED;
+  color: white;
 }
 
 #tablet {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	width: 40%;
+	margin-left: 60%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+  background-color:  #6495ED;
+  color: white;
 }
 
 #smartphone {
